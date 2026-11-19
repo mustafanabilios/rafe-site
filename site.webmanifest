@@ -1,0 +1,28 @@
+{
+  "name": "Rafe Women",
+  "short_name": "Rafe",
+  "description": "Your calm nutrition companion through every season of you.",
+  "start_url": "/rafe-site/",
+  "scope": "/rafe-site/",
+  "display": "browser",
+  "background_color": "#F6F1EA",
+  "theme_color": "#F6F1EA",
+  "icons": [
+    {
+      "src": "/rafe-site/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/rafe-site/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/rafe-site/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

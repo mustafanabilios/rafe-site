@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mustafanabilios.github.io/rafe-site/sitemap.xml

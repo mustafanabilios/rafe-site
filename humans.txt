@@ -1,0 +1,8 @@
+/* TEAM */
+Developer: Mustafa Nabil (mustafanabil), independent developer of Rafe.
+Contact: mustafanabilinvesting [at] gmail.com
+
+/* SITE */
+Standards: HTML5, CSS (layers, logical properties), vanilla JS
+Fonts: Fraunces and DM Sans, SIL Open Font License, self-hosted
+Built with: Astro (static)
